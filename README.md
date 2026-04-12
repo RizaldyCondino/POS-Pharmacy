@@ -34,10 +34,8 @@ Problem-solving under real-world constraints
 
 Built during the pandemic period as a self-learning project after graduation, demonstrating initiative, discipline, and continuous learning in software development.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/e40c2b1c-50c5-4ee0-8959-d360ccb46626" height="280"/>
-  <img src="https://github.com/user-attachments/assets/7b3d19e7-4c0f-4f3b-9a0f-6d7921691f87" height="280"/>
-</div>
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e40d1c2b-50c5-4ee0-8959-d360ccb46626" /> 
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/7b3d19e7-4c0f-4f3b-9a0f-6d7921691f87" />
 
 
 
