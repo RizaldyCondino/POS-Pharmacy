@@ -1,0 +1,51 @@
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Form1.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Resources.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.vbproj.GenerateResource.Cache
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\bin\Debug\Point of sale pharmacy.exe
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\bin\Debug\Point of sale pharmacy.pdb
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\bin\Debug\Point of sale pharmacy.xml
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.exe
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.xml
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.pdb
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.main.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Classification.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Classification_Entry.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_maintenance.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_brand_Entry.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Generic_Entry.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Types_Entry.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_Formulation_Entry.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_Product.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_product_Entry.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Stock_in.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_POS.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Quantity.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_settle.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_discount.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_dailySales.resources
+C:\Users\CONDINO\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_records.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.vbprojAssemblyReference.cache
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_brand_Entry.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Classification.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Classification_Entry.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Form1.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.main.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_Formulation_Entry.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_maintenance.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Generic_Entry.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Types_Entry.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Resources.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_dailySales.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_discount.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_POS.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Quantity.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_settle.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.frm_Product.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_product_Entry.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_Stock_in.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point_of_sale_pharmacy.Frm_records.resources
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.vbproj.GenerateResource.cache
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.vbproj.CoreCompileInputs.cache
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.exe
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.xml
+C:\Users\Keykz\Desktop\Point of sale pharmacy\Point of sale pharmacy\Point of sale pharmacy\obj\x86\Debug\Point of sale pharmacy.pdb
