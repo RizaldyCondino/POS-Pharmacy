@@ -1,5 +1,4 @@
-﻿# POS-Pharmacy
- 💊 POS Pharmacy System (2020)
+﻿💊 POS Pharmacy System (2020)
 
 Desktop Application – Visual Studio (C# / .NET)
 
