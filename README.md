@@ -1,6 +1,6 @@
 💊 POS Pharmacy System (2020)
 
-Desktop Application – C# / .NET (WinForms) | SQL Server
+Desktop Application – C# / .NET (WinForms) | MYSQL Server
 
 During the COVID-19 pandemic in 2020, shortly after graduating from college, I developed a Point-of-Sale (POS) Pharmacy System using Visual Studio. This project was built as a self-learning initiative to strengthen my software development skills and simulate real-world pharmacy operations in a desktop environment.
 
